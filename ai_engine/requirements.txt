@@ -1,0 +1,8 @@
+Flask==2.3.3
+fpdf==1.7.2
+PyMuPDF==1.23.5
+python-docx==1.1.0
+spacy==3.7.2
+scikit-learn==1.4.2
+numpy==1.26.4
+requests==2.31.0

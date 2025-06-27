@@ -1,0 +1,12 @@
+/vendor/
+.env
+uploads/
+.idea/
+*.log
+.DS_Store
+*.zip
+*.bak
+*.tmp
+node_modules/
+__pycache__/
+ai_engine/__pycache__/
