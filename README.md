@@ -2,7 +2,6 @@
 
 AI Job Mentor is a web-based application that provides personalized career guidance by analyzing user resumes using artificial intelligence. The system offers automated job recommendations, skill assessments, and customized learning paths to help users advance their careers effectively.
 
-
 The application combines PHP-based web interface with a Python AI engine to deliver comprehensive career guidance. It features secure user authentication, resume processing, automated skill extraction, job role matching, and generates detailed PDF reports with personalized recommendations. The system also maintains a history of analyses and provides email notifications for important updates and reports.
 
 ## Repository Structure
