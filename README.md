@@ -16,9 +16,9 @@ The application combines PHP-based web interface with a Python AI engine to deli
 │   └── resume_analyzer.py     # Resume text extraction and analysis
 ├── composer.json              # PHP dependencies configuration
 ├── composer.lock              # PHP dependencies lock file
-├── dashboard.php             # Main user interface after login
-├── db_config.php            # Database connection configuration
-├── history.php             # User's past analysis reports view
+├── dashboard.php              # Main user interface after login
+├── db_config.php              # Database connection configuration
+├── history.php                # User's past analysis reports view
 ├── login.php              # User authentication interface
 ├── logout.php            # Session termination handler
 ├── mail_config.php      # Email service configuration
