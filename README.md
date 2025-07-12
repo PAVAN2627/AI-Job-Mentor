@@ -47,7 +47,7 @@ Required PHP Extensions:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/PAVAN2627/AI-Job-Mentor
 cd ai-job-mentor
 ```
 
